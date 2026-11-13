@@ -8,6 +8,8 @@
 
 ### 🔪 Murder Mystery 2
 
+**Status:** Approximately 99% functional based on our experience; this is an estimate, not a measured success rate. Auto shoot does not guarantee a hit and can miss moving targets.
+
 - Role and player ESP, dropped-gun markers, and player spectating.
 - Gun pickup, auto shoot, selectable shot-prediction modes, and optional aim assist.
 - Murderer controls for knife attacks, throwing, and kill aura.
@@ -15,11 +17,15 @@
 
 ### 🚪 DOORS
 
+**Status:** Approximately 90% functional based on our experience; this is an estimate, not a measured success rate.
+
 - Door, key, object, and entity highlights, with optional alerts.
 - Speed boost, Rush / Ambush evasion, fullbright, FOV, noclip, and anti-AFK controls.
 - Local speed and movement diagnostics to help investigate problems.
 
 ### ⚔️ Blade Ball
+
+**Status: Experimental and not fully tested.** Parry was problematic during the last test. The new parry system could not be tested because we kept getting kicked from the game; its effectiveness remains unverified.
 
 - Auto-parry controls, ball and player ESP, and adjustable combat options.
 
@@ -53,6 +59,10 @@ The output is `dist/nexus-local-test.client.luau`. Review scripts and their depe
 - `scripts/build-test-bundle.mjs` — builds the standalone client bundle.
 - `tests/client/` — Luau unit tests.
 The standalone bundle requires Node.js to build. The separate site/backend is not part of this client release.
+
+## 💬 Community
+
+**Nexus Hub has no official Discord server.**
 
 ## 🤝 Contributing
 
