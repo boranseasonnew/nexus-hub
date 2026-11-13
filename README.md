@@ -4,6 +4,10 @@
 
 > 🔓 Free, open source, and keyless in the official distribution.
 
+## 🌍 Languages
+
+[Türkçe](docs/README.tr.md) · [Azərbaycanca](docs/README.az.md) · [Español](docs/README.es.md) · [Português](docs/README.pt.md) · [Français](docs/README.fr.md) · [Deutsch](docs/README.de.md) · [Italiano](docs/README.it.md) · [Русский](docs/README.ru.md) · [Українська](docs/README.uk.md) · [العربية](docs/README.ar.md) · [فارسی](docs/README.fa.md) · [हिन्दी](docs/README.hi.md) · [Bahasa Indonesia](docs/README.id.md) · [Tiếng Việt](docs/README.vi.md) · [简体中文](docs/README.zh.md) · [日本語](docs/README.ja.md) · [한국어](docs/README.ko.md) · [Polski](docs/README.pl.md) · [Nederlands](docs/README.nl.md) · [Română](docs/README.ro.md)
+
 ## 🎮 Features
 
 ### 🔪 Murder Mystery 2
